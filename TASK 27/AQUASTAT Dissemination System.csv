@@ -1,0 +1,31 @@
+VariableGroup,Subgroup,Variable,Area,Year,Value,Unit,Symbol,IsAggregate
+Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Pakistan,2017,69.854132901,%,I,False
+Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Pakistan,2018,69.854132901,%,I,False
+Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Pakistan,2019,69.854132901,%,I,False
+Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Pakistan,2020,69.854132901,%,I,False
+Water use,Pressure on water resources,Agricultural water withdrawal as % of total renewable water resources,Pakistan,2021,69.854132901,%,I,False
+Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Pakistan,2017,38.264699634,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Pakistan,2018,42.830501037,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Pakistan,2019,46.107251418,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Pakistan,2020,42.236540663,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Industrial Water Use Efficiency,Pakistan,2021,45.055386801,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Pakistan,2017,0.328448767,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Pakistan,2018,0.339694833,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Pakistan,2019,0.333497764,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Pakistan,2020,0.355840506,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Irrigated Agriculture Water Use Efficiency,Pakistan,2021,0.397394985,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Pakistan,2017,18.937953122,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Pakistan,2018,19.845020997,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Pakistan,2019,20.641541386,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Pakistan,2020,20.517661143,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Services Water Use Efficiency,Pakistan,2021,21.301787146,US$/m3,E,False
+Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Pakistan,2017,1.596873233,US$/m3,I,False
+Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Pakistan,2018,1.690000235,US$/m3,I,False
+Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Pakistan,2019,1.751082261,US$/m3,I,False
+Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Pakistan,2020,1.736023386,US$/m3,I,False
+Water use,Pressure on water resources,SDG 6.4.1. Water Use Efficiency,Pakistan,2021,1.837834194,US$/m3,I,False
+Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Pakistan,2017,122.673455616,%,E,False
+Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Pakistan,2018,118.238144899,%,E,False
+Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Pakistan,2019,108.649776087,%,E,False
+Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Pakistan,2020,116.305748114,%,E,False
+Water use,Pressure on water resources,SDG 6.4.2. Water Stress,Pakistan,2021,162.069811668,%,E,False
